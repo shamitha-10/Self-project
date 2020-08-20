@@ -1,6 +1,6 @@
 # Self-project
 <h2> Tic Tac Toe Game:</h2>
-<p>Tic tac Toe also known as noughts and crosses.or x's and o's is a game for 2 players(without computer)
+<p>Tic tac Toe also known as noughts and crosses or x's and o's is a game for 2 players(without computer)
 Who take turns marking the spaces in a 3*3 grid</p>
 
 <p>the player alternatively take turns to mark their symbols.
@@ -22,7 +22,7 @@ If all the places in the grid is filled then it is declared as tie</p>
 
 <p>This is implemented by creating a class name board to play.
 The game begins with asking the position to be marked by the player on the board.
-It ranges from 1 to 9.Enter the position(1 to 9),It will mark on the board</p>
+It ranges from 1 to 9.Enter the position(1 to 9),It will mark on the board.</p>
 
 <h2>Running the code:</h2>
 
