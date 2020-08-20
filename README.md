@@ -36,7 +36,7 @@ git clone https://github.com/shamitha-10/Self-project
 
 ```
 
-<h5>To run the code execute the below comment:</h5>
+<h5>To run the code execute the below command:</h5>
 
 ```
  python game.py
